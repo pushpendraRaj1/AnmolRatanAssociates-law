@@ -25,8 +25,7 @@ This project is a web development initiative to create a professional and user-f
 
 1. Clone the repository:
   ```
-  git clone https://github.com/your-username/anmolratan-law-firm.git
-  ```
+https://github.com/pushpendraRaj1/AnmolRatanAssociates-law.git  ```
 2. Navigate to the project directory:
   ```
   cd anmolratan-law-firm
