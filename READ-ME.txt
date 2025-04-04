@@ -1,0 +1,58 @@
+# Anmolratan Law Firm
+
+Welcome to the official repository for the Anmolratan Law Firm website.
+
+## Project Overview
+
+This project is a web development initiative to create a professional and user-friendly website for the Anmolratan Law Firm. The website will provide information about the firm's services, team, and contact details.
+
+## Features
+
+- Responsive design for all devices
+- Information about legal services offered
+- Team member profiles
+- Contact form for inquiries
+- Blog section for legal updates
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- [Add any frameworks or libraries used, e.g., React, Bootstrap]
+
+## Installation
+
+1. Clone the repository:
+  ```
+  git clone https://github.com/your-username/anmolratan-law-firm.git
+  ```
+2. Navigate to the project directory:
+  ```
+  cd anmolratan-law-firm
+  ```
+3. Open `index.html` in your browser to view the website.
+
+## Contributing
+
+We welcome contributions! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+  ```
+  git checkout -b feature-name
+  ```
+3. Commit your changes:
+  ```
+  git commit -m "Add feature description"
+  ```
+4. Push to your branch:
+  ```
+  git push origin feature-name
+  ```
+5. Open a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
